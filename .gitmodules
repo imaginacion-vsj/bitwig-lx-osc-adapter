@@ -1,0 +1,3 @@
+[submodule "go-osc"]
+	path = go-osc
+	url = git@github.com:imaginacion-vsj/go-osc.git
